@@ -1,12 +1,10 @@
-package main
+package main 
 
-import {
-  "fmt"
-  "io"
-  "log"
-  "net"
-  "time"
-}
+import fmt
+import io
+import time
+import log
+import net
 
 func main() {
   //configuracion del proxy
